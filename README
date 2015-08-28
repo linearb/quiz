@@ -1,0 +1,12 @@
+
+Nothing fancy: took the goal to be to write
+something that works and runs sufficiently fast
+without spending too much time on it.
+As someone new to go this may not be so idiomatic.
+
+Compile and run with:
+
+go build quiz.go 
+./quiz < word.list
+
+
